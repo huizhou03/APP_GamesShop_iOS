@@ -1,0 +1,94 @@
+[
+    {
+        "nombre":"Super Mario Bros",
+        "precio":12.99
+    },
+    {
+        "nombre":"Biomutant",
+        "precio":36.99
+    },
+    {
+        "nombre":"Donkey Kong Country",
+        "precio":45.99
+    },
+    {
+        "nombre":"Detective Pikachu",
+        "precio":49.99
+    },
+    {
+        "nombre":"Dragones III",
+        "precio":29.99
+    },
+    {
+        "nombre":"Driving Adventures",
+        "precio":19.99
+    },
+    {
+        "nombre":"Everybody Switch",
+        "precio":39.99
+    },
+    {
+        "nombre":"Fitness Boxing",
+        "precio":19.99
+    },
+    {
+        "nombre":"Harvestella",
+        "precio":39.99
+    },
+    {
+        "nombre":"Hollow Knight",
+        "precio":39.99
+    },
+    {
+        "nombre":"Just Dance",
+        "precio":49.99
+    },
+    {
+        "nombre":"Kirby y la tierra olvidada",
+        "precio":39.99
+    },
+    {
+        "nombre":"Mario VS Donkey Kong",
+        "precio":49.99
+    },
+    {
+        "nombre":"Mario Party Jamboree",
+        "precio":59.99
+    },
+    {
+        "nombre":"Mario Party Superstars",
+        "precio":49.99
+    },
+    {
+        "nombre":"Minecraft",
+        "precio":59.99
+    },
+    {
+        "nombre":"Monster Hunter Rise",
+        "precio":35.99
+    },
+    {
+        "nombre":"mySims Cozy Bundle",
+        "precio":49.99
+    },
+    {
+        "nombre":"Princess Peach Showtime",
+        "precio":59.99
+    },
+    {
+        "nombre":"Pokemon Diamante Brillante",
+        "precio":49.99
+    },
+    {
+        "nombre":"twoPointCampus",
+        "precio":29.99
+    },
+    {
+        "nombre":"Zelda tears of the kingdom",
+        "precio":35.99
+    },
+    {
+        "nombre":"Zelda Links Awakening",
+        "precio":49.99
+    }
+]
