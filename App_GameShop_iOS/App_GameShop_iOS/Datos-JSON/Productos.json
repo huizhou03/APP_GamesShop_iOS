@@ -1,0 +1,188 @@
+{
+   "Productos":[
+       {
+           "id":"1",
+           "nombre":"Super Mario Bros Wonder",
+           "precio":12.99,
+           "descripcion":"Super Mario Bros. Wonder es un juego de plataformas para Switch donde Mario y sus amigos atraviesan niveles llenos de sorpresas y nuevas mecánicas, como las Wonder Flowers. Ofrece jugabilidad cooperativa y un estilo visual fresco.",
+           "imagen":"superMarioBrosWonder",
+           "stock":100
+       },
+       {
+           "id":"2",
+           "nombre":"Biomutant",
+           "precio":36.99,
+           "descripcion":"Biomutant es un juego de acción y rol de mundo abierto donde controlas a un animal mutante en un mundo postapocalíptico. Ofrece combates, exploración y decisiones que afectan el destino del mundo.",
+           "imagen": "biomutant",
+           "stock":100
+       },
+       {
+           "id":"3",
+           "nombre":"Donkey Kong Country",
+           "precio":45.99,
+           "descripcion":"Donkey Kong Country es un juego de plataformas clásico donde Donkey Kong y su compañero Diddy Kong deben atravesar niveles llenos de obstáculos y enemigos para recuperar su reserva de plátanos robada. Destaca por su jugabilidad, gráficos y música icónica.",
+           "imagen": "donkeyKongCountry",
+           "stock": 100
+       },
+       {
+           "id":"4",
+           "nombre":"Detective Pikachu",
+           "precio":49.99,
+           "descripcion":"Detective Pikachu es un juego de aventura y misterio donde Tim Goodman y un Pikachu parlante con dotes de detective investigan la desaparición del padre de Tim. Juntos resuelven casos en Ryme City interrogando testigos, incluidos Pokémon, y resolviendo acertijos.",
+           "imagen":"detectivePikachu",
+           "stock": 100
+       },
+       {
+           "id":"5",
+           "nombre":"Dragones Quest III",
+           "precio":29.99,
+           "descripcion":"Dragon Quest III: The Seeds of Salvation es un RPG clásico donde los jugadores controlan a un héroe en su misión para derrotar al malvado Archfiend Baramos. Con un mundo abierto, un sistema de clases personalizable y combates por turnos, es una de las entregas más icónicas de la saga, influyendo en muchos RPG posteriores.",
+           "imagen":"dragonesIII",
+           "stock":100
+       },
+       {
+           "id":"6",
+           "nombre":"Matchbox Driving Adventures",
+           "precio":19.99,
+           "descripcion":"Matchbox Driving Adventures es un juego de carreras y exploración basado en la famosa línea de autos de juguete Matchbox. Lanzado para PC en los años 90, permite a los jugadores conducir diversos vehículos en entornos abiertos, completar misiones y superar desafíos en distintos terrenos. Su enfoque es más arcade y accesible, ideal para jugadores jóvenes.",
+           "imagen":"drivingAdventures",
+           "stock":100
+       },
+       {
+           "id":"7",
+           "nombre":"Everybody Switch",
+           "precio":39.99,
+           "descripcion":"En Everybody Switch encontrarás los mejores juegos para Nintendo Switch, desde los últimos lanzamientos hasta clásicos imperdibles. Descubre una amplia selección de títulos para todas las edades y géneros, con precios competitivos y atención especializada. ¡Haz de tu próxima aventura gamer una realidad con nosotros!",
+           "imagen":"everybodySwitch",
+           "stock":100
+       },
+       {
+           "id":"8",
+           "nombre":"Fitness Boxing 3",
+           "precio":19.99,
+           "descripcion":"",
+           "imagen":"fitnessBoxing",
+           "stock":100
+       },
+       {
+           "id":"9",
+           "nombre":"Harvestella",
+           "precio":39.99,
+           "descripcion":"",
+           "imagen":"",
+           "stock":100
+       },
+       {
+           "id":"10",
+           "nombre":"Hollow Knight",
+           "precio":39.99,
+           "descripcion":"",
+           "imagen":"",
+           "stock":100
+       },
+       {
+           "id":"11",
+           "nombre":"Just Dance",
+           "precio":49.99,
+           "descripcion":"",
+           "imagen":"",
+           "stock":100
+       },
+       {
+           "id":"12",
+           "nombre":"Kirby y la tierra olvidada",
+           "precio":39.99,
+           "descripcion":"",
+           "imagen":"",
+           "stock":100
+       },
+       {
+           "id":"13",
+           "nombre":"Mario VS Donkey Kong",
+           "precio":49.99,
+           "descripcion":"",
+           "imagen":"",
+           "stock":100
+       },
+       {
+           "id":"14",
+           "nombre":"Mario Party Jamboree",
+           "precio":59.99,
+           "descripcion":"",
+           "imagen":"",
+           "stock":100
+       },
+       {
+           "id":"15",
+           "nombre":"Mario Party Superstars",
+           "precio":49.99,
+           "descripcion":"",
+           "imagen":"",
+           "stock":100
+       },
+       {
+           "id":"16",
+           "nombre":"Minecraft",
+           "precio":59.99,
+           "descripcion":"",
+           "imagen":"",
+           "stock":100
+       },
+       {
+           "id":"17",
+           "nombre":"Monster Hunter Rise",
+           "precio":35.99,
+           "descripcion":"",
+           "imagen":"",
+           "stock":100
+       },
+       {
+           "id":"18",
+           "nombre":"mySims Cozy Bundle",
+           "precio":49.99,
+           "descripcion":"",
+           "imagen":"",
+           "stock":100
+       },
+       {
+           "id":"19",
+           "nombre":"Princess Peach Showtime",
+           "precio":59.99,
+           "descripcion":"",
+           "imagen":"",
+           "stock":100
+       },
+       {
+           "id":"20",
+           "nombre":"Pokemon Diamante Brillante",
+           "precio":49.99,
+           "descripcion":"",
+           "imagen":"",
+           "stock":100
+       },
+       {
+           "id":"21",
+           "nombre":"twoPointCampus",
+           "precio":29.99,
+           "descripcion":"",
+           "imagen":"",
+           "stock":100
+       },
+       {
+           "id":"22",
+           "nombre":"Zelda tears of the kingdom",
+           "precio":35.99,
+           "descripcion":"",
+           "imagen":"",
+           "stock":100
+       },
+       {
+           "id":"23",
+           "nombre":"Zelda Links Awakening",
+           "precio":49.99,
+           "descripcion":"",
+           "imagen":"",
+           "stock":100
+       }
+   ]
+}
