@@ -22,7 +22,8 @@ struct Login: View {
                 .disableAutocorrection(true)
                 .autocapitalization(.none)
                 .font(.headline)
-                .background(Color.red.opacity(0.8))
+                .padding()
+                .background(Color.gray.opacity(0.2))
                 .cornerRadius(6)
                 .padding(.horizontal, 60)
                 .foregroundStyle(Color.black)
@@ -34,7 +35,8 @@ struct Login: View {
                 .disableAutocorrection(true)
                 .autocapitalization(.none)
                 .font(.headline)
-                .background(Color.red.opacity(0.8))
+                .padding()
+                .background(Color.gray.opacity(0.2))
                 .cornerRadius(6)
                 .padding(.horizontal, 60)
                 .foregroundStyle(Color.black)
@@ -42,11 +44,21 @@ struct Login: View {
                     print("Contraseña nuevo valor: \(newValue)")
                 }
             
-            Button ("Autenticar ✅") {
+            Button(action: autenticar){
+                Text("Iniciar Sesión")
+                    .font(.headline)
+                    .foregroundColor(.white)
+                    .padding()
+                    .frame(maxWidth: .infinity)
+                    .background(Color.red)
+                    .cornerRadius(8)
+                    .padding(.horizontal, 60)
+            }
+            /*Button ("Autenticar ✅") {
                 print("**********")
                 print(" 👤 \(usr)")
                 print("🔑 \(pwd)")
-            }
+            }*/
             
             Button ("Limpiar campos 🧹") {
                 usr = ""
@@ -58,6 +70,14 @@ struct Login: View {
         }
         .padding()
     }
+    
+    // Método de autenticación (se puede conectar con Firebase en el futuro)
+    private func autenticar() {
+        print("**********")
+        print("Inicio de sesión")
+        print(" 👤 Usuario: \(usr)")
+        print(" 🔑 Contraseña: \(pwd)")
+    }
 }
 
 #Preview {
@@ -65,3 +85,4 @@ struct Login: View {
     //ContentView(usr: .constant(""))
     Login()
 }
+//Array()
