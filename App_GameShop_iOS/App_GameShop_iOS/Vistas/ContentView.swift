@@ -48,8 +48,8 @@ struct TiendaView: View {
             loadProductos()
         }
     }
+    
     func loadProductos() {
-
             guard let url = Bundle.main.url(forResource: "productos", withExtension: "json") else {
                 print("No se pudo encontrar el archivo JSON.")
                 return
