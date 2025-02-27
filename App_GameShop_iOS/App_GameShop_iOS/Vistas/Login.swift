@@ -87,7 +87,6 @@ struct Login: View {
                 
                 // Navegación a la pantalla principal si autenticado es `true`
                 NavigationLink(destination: ContentView(), isActive: $autenticado) {
-                    EmptyView()
                 }
                 
                 // Botón de registro
@@ -107,10 +106,11 @@ struct Login: View {
     // Método de autenticación (se puede conectar con Firebase en el futuro)
     private func autenticar() {
         if let user = usuariosArray.first(where: { $0.usuario == usr && $0.password == pwd }) {
-             autenticado = true
+            usr = ""
+            pwd = ""
+            autenticado = true
              sesionFallida = false
              print("Login successful for user: \(user.usuario)")
-            // Proceed to the next screen (e.g., show the main content of the app)
         } else {
             sesionFallida = true
             print("Login failed: Invalid username or password")
